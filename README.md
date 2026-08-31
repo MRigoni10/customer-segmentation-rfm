@@ -28,4 +28,4 @@ Clone the repo and run `rfm_segmentation.ipynb` in Colab or Jupyter.
 ## How to Run the Project
 The complete code is available in the interactive notebook. You can run it with a single click:
 
-[! [Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([INSERT_LINK_TO_YOUR_COLAB_NOTEBOOK](https://colab.research.google.com/drive/1PfD9MlRjbiyO-5Dge-Mj5_Fkp_Po0Ow7))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1PfD9MlRjbiyO-5Dge-Mj5_Fkp_Po0Ow7))
